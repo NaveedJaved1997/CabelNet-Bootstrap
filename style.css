@@ -1,0 +1,42 @@
+body {
+    background-image: url("http://cablecomservices.com/wp-content/uploads/2021/02/landscape-nature-rock-wilderness-sunrise-sunset-712348-pxhere-com-1.jpg");
+    background-color: rgb(75, 174, 243);
+    background-size:cover;
+    background-position: top;
+    position: absolute;
+    
+    /* background-repeat: no-repeat; */
+   }
+  
+.SkyBlue{
+    background-color:  rgb(75, 174, 243);
+    color: white;
+}
+.LightOrange{
+    background-color: rgb(255, 118, 67);
+    color: white;
+}
+.Yellow{
+    background-color:  rgb(255, 207, 67);
+    color: white;
+}
+.BoxHeight{
+    height: 350px;
+}
+.Header{
+    padding-top: 250px;
+    padding-bottom : 100px;
+}
+.text-orange{
+    color: rgb(255, 118, 67);
+}
+.footer{
+    height: 100px;
+}
+.nav-link{
+margin: 15px;
+}
+.responsive-image {
+    width: 100%;
+    height: auto;
+  }
